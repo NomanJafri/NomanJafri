@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning C# .net ...
+🌱 I’m currently learning Github Actions, Dockers and AWS ...enjoying it!!
 
 <!--
 **NomanJafri/NomanJafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
