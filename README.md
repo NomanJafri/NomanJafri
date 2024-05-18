@@ -1,16 +1,19 @@
 ### Hi there 👋
 
 🌱 I have a few projects with code available
-
-- Interactive Task List
 <ul>
       <li>
-            Live --- https://NomanJafri.github.io/InteractiveTaskList/      
-      </li>
-      <li>
-            Repo --- https://github.com/NomanJafri/InteractiveTaskList      
-      </li>
-</ul> 
+            Interactive Task List
+      
+            <ul>
+                  <li>
+                        Live --- https://NomanJafri.github.io/InteractiveTaskList/      
+                  </li>
+                  <li>
+                        Repo --- https://github.com/NomanJafri/InteractiveTaskList      
+                  </li>
+            </ul> 
+      </li>      
 
 - Profile - HTML, CSS, Vanilla Javascript 
       - Live --- https://NomanJafri.github.io/profile/
@@ -23,6 +26,7 @@
 - Blog website - Flask backend with Jinja2 templates, authentication, database 
       - Live --- https://NomanJafri.com/blog
       - Repo --- https://github.com/NomanJafri/Flask_Blog
+</ul>
 
 <!--
 **NomanJafri/NomanJafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
