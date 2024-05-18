@@ -1,20 +1,10 @@
 ### Hi there 👋
 
 🌱 I have a few projects with code available
-<ul>
-      <li>
-            Interactive Task List
-      
-      </li>      
-</ul>
-            <ul>
-                  <li>
-                        Live --- https://NomanJafri.github.io/InteractiveTaskList/      
-                  </li>
-                  <li>
-                        Repo --- https://github.com/NomanJafri/InteractiveTaskList      
-                  </li>
-            </ul> 
+
+- Interactive Task List 
+      - Live --- https://NomanJafri.github.io/InteractiveTaskList/
+      - Repo --- https://github.com/NomanJafri/InteractiveTaskList
 
 - Profile - HTML, CSS, Vanilla Javascript 
       - Live --- https://NomanJafri.github.io/profile/
