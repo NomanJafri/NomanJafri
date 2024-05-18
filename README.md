@@ -2,9 +2,15 @@
 
 🌱 I have a few projects with code available
 
-- Interactive Task List 
-      - Live --- https://NomanJafri.github.io/InteractiveTaskList/
-      - Repo --- https://github.com/NomanJafri/InteractiveTaskList
+- Interactive Task List
+<ul>
+      <li>
+            Live --- https://NomanJafri.github.io/InteractiveTaskList/      
+      </li>
+      <li>
+            Repo --- https://github.com/NomanJafri/InteractiveTaskList      
+      </li>
+</ul> 
 
 - Profile - HTML, CSS, Vanilla Javascript 
       - Live --- https://NomanJafri.github.io/profile/
