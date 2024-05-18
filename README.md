@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Github Actions, Dockers and AWS ...enjoying it!!
+🌱 I have a few projects with code available
+- Interactive Task List --- https://NomanJafri.github.io/InteractiveTaskList/
+- Profile - HTML, CSS, Vanilla Javascript --- https://NomanJafri.github.io/profile/
+- Profile - React app --- https://NomanJafri.github.io/profile-react/
+- Blog website - Flask backend with Jinja2 templates, authentication, database --- https://NomanJafri.com/blog
 
 <!--
 **NomanJafri/NomanJafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
