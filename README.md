@@ -5,6 +5,8 @@
       <li>
             Interactive Task List
       
+      </li>      
+</ul>
             <ul>
                   <li>
                         Live --- https://NomanJafri.github.io/InteractiveTaskList/      
@@ -13,7 +15,6 @@
                         Repo --- https://github.com/NomanJafri/InteractiveTaskList      
                   </li>
             </ul> 
-      </li>      
 
 - Profile - HTML, CSS, Vanilla Javascript 
       - Live --- https://NomanJafri.github.io/profile/
@@ -26,7 +27,6 @@
 - Blog website - Flask backend with Jinja2 templates, authentication, database 
       - Live --- https://NomanJafri.com/blog
       - Repo --- https://github.com/NomanJafri/Flask_Blog
-</ul>
 
 <!--
 **NomanJafri/NomanJafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
